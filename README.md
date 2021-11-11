@@ -1,1 +1,12 @@
 # MERNStackProject
+![postJS](https://user-images.githubusercontent.com/50138555/141252657-0b297ea6-779e-4159-99c5-11493fa318b3.png)
+![postsJS](https://user-images.githubusercontent.com/50138555/141252668-b12d6e17-3b43-41c0-8304-9d4ceff46e78.png)
+![profileJS](https://user-images.githubusercontent.com/50138555/141252671-caaad0ee-377f-48b9-9980-19ed5270200f.jpg)
+![profilesJS](https://user-images.githubusercontent.com/50138555/141252674-eb3de978-54ac-44f4-a421-cebf0dcb0795.jpg)
+![reduxWorking](https://user-images.githubusercontent.com/50138555/141252677-02f9be3f-7f09-4b69-a587-d0785c55fe40.png)
+![routeProtection](https://user-images.githubusercontent.com/50138555/141252680-933c0d8c-9336-4434-be43-ba97dd72c7d5.png)
+![routes](https://user-images.githubusercontent.com/50138555/141252685-e81c2ad3-b451-439c-a3c5-4e6c2680810a.jpg)
+![StateMgmt](https://user-images.githubusercontent.com/50138555/141252711-6882b34f-edaa-4969-82d6-5259fb898917.jpg)
+![allApiCalls](https://user-images.githubusercontent.com/50138555/141252748-10a05778-f253-4acc-8100-a4cb036dc4a2.jpg)
+![dashboardJS](https://user-images.githubusercontent.com/50138555/141252781-f70dcd5f-4230-412f-ac21-3128dbf1430d.png)
+![models](https://user-images.githubusercontent.com/50138555/141252783-80be3aad-e3f3-4c34-83d0-eaceeb1221ff.jpg)
